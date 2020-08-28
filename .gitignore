@@ -345,3 +345,7 @@ Console/App.config
 Console/Console.csproj
 
 Console/Program.cs
+
+SAPUserBapiNet/NcoLib/sapnco.dll
+
+SAPUserBapiNet/NcoLib/sapnco_utils.dll
