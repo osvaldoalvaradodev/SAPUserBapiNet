@@ -338,3 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+Console/Properties/AssemblyInfo.cs
+
+Console/App.config
+
+Console/Console.csproj
+
+Console/Program.cs
